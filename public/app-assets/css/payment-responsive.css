@@ -1,0 +1,111 @@
+@media(max-width:1199px){
+    #combopaymentlink .modal-dialog {
+        max-width: 96%;
+    }
+    div#combopaymentlink .parent .closest_div {
+        max-width: 60%;
+    }
+    
+    div#combopaymentlink .parent .col-3 {
+        width: 40%;
+    }
+        .invoice-summary-sticky {
+        position: relative;
+        top: 0px;
+        width: auto;
+    }
+    
+    div#combopaymentlink .parent {
+        padding: 0px 20px!important;
+    }
+    
+    div#combopaymentlink .parent .row.items {
+        margin-left: 0px;
+    }
+    
+    div#combopaymentlink .parent .closest_div {
+        max-width: 60%;
+    }
+    
+    div#combopaymentlink .parent .col-3 {
+        width: 40%;
+    }
+    
+    div#combopaymentlink .parent .row.item-0 .col-3 {max-width: 50%;width: 100%;}
+    
+    div#combopaymentlink .parent .row.item-0 .col-2 {
+        max-width: 38%;
+        width: 100%;
+    }
+    
+    div#combopaymentlink .col-9 {
+        width: 100%;
+        max-width: 100%;
+    }
+    
+    }
+    @media(max-width:767px){
+    div#combopaymentlink .parent .closest_div {
+        width: 100%;
+        max-width: 100%;
+        padding: 15px 30px!important;
+        padding-bottom: 0px!important;
+    }
+    
+    div#combopaymentlink .parent .row.items {
+        margin: 0px;
+    }
+    
+    div#combopaymentlink .parent .row.item-0 .col-3, div#combopaymentlink .parent .row.item-0 .col-2, div#combopaymentlink .parent .row.item-0 .col-1 {
+        width: 100%;
+        max-width: 100%;
+        padding: 0px;
+        margin-top: 0px!important;
+    }
+    
+    div#combopaymentlink .parent .col-3 {
+        width: 100%;
+        padding: 0px;
+    }
+    
+    div#combopaymentlink .invoice-summary-sticky .card {
+        box-shadow: none;
+        border: 1px solid #d5d5d5;
+        border-radius: 0px;
+    }
+    div#combopaymentlink .parent .row.item-0 .col-12 {
+        padding: 0px;
+    }
+    div#combopaymentlink .parent .row_items>.row>div {width: 100%;max-width: 100%;}
+    div#combopaymentlink .parent .row.item-0 label.form-check-label {
+        margin-left: 10px;
+    }
+    div#combopaymentlink  .ajax-btns>button {
+        width: 100%;
+        margin-top: 10px;
+    }
+        
+    div#combopaymentlink .mb-1 {
+        margin-bottom: 7px!important;
+    }
+    
+    #combopaymentlink .modal-dialog {
+        max-width: 98%;
+        width: 100%;
+        padding: 0px;
+        margin: auto;
+    }
+    
+    div#combopaymentlink .parent {
+        padding: 0px 10px!important;
+    }
+    
+    div#combopaymentlink  .ajax-btns {
+        margin-top: 0px!important;
+    }
+    }
+    
+    
+    
+    
+    
